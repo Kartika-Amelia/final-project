@@ -10,8 +10,8 @@ body{
 .login-box{
     width: 320px;
     height: 420px;
-    background; rgba(0,0,0,0,5);
-    color: #fff;
+    background-color:  rgba(0,0,0,0,5);
+    color:black;
     top: 50%;
     left: 50%;
     position: absolute;
@@ -32,47 +32,47 @@ h1{
     font-weight: bold;
 }
 
-.login-box input{
-    widht: 100%;
+.login-box button{
+    width:  100%;
     margin-bottom: 30px;
 }
 
-.login-box input[type="text"], input[type="Username"]{
+.login-box button[type="text"], button[type="Username"]{
     border: none;
-    border-bottoom: 1px solid #fff;
+    border-bottom:  1px solid #fff;
     background: transparent;
     outline: none;
     height: 40px;
-    color:#fff;
+    color: black;
     font-size: 16px;
 }
 
-.login-box input[type="text"], input[type="password"]{
+.login-box button[type="text"], button[type="password"]{
     border: none;
     border-bottom: 1px solid #fff;
     background: transparent;
     outline: none;
     height: 40px;
-    color:#fff;
+    color: black;
     font-size: 16px;
 }
 
-.login-box input[type="submit"]{
+.login-box button[type="submit"]{
     border: none;
     outline: none;
     height: 40px;
-    color: #fff;
+    color: black;
     font-size: 18px;
     border-radius: 20px;
-    background: #83C5BE;
+    
 }
-.login-box input[type="submit"]:hover{
+.login-box button[type="submit"]:hover{
     cursor: pointer;
     background: #E33d56;
-    color: #fff;
+    color:black;
 }
 .login-box a{
     text-decoration: none;
     font-size: 14px;
-    color:#fff;
+    color: black;
 }
