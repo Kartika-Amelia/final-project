@@ -3,3 +3,31 @@
   height: 104px;
   border-radius: 10px;
 }
+body{
+    background-color: #83C5BE;
+    margin-top: 25px;
+}
+
+#YourProgress{
+  padding: 10px;
+  border-radius: 20px;
+  background-color: #006D77;
+  color: white;
+  width: 98%;
+}
+
+#tanggal{
+  padding: 10px;
+  border-radius: 20px;
+  background-color: white;
+  color:black;
+  width: 33%;
+}
+
+#tingkatan{
+  padding: 10px;
+  border-radius: 20px;
+  background-color: white;
+  color:black;
+  width: 12%;
+}

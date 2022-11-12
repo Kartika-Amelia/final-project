@@ -1,0 +1,18 @@
+body{
+    background-color: #83C5BE;
+    margin-top: 25px;
+}
+
+.button-ladiesroom{
+  width: 119px;
+  height: 110Spx;
+  border-radius: 18px;
+}
+
+#Ekspresikandirimusekarang{
+  padding: 10px;
+  border-radius: 20px;
+  background-color: #006D77;
+  color:black;
+  width: 90%;
+}
