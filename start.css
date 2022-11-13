@@ -1,5 +1,10 @@
-.body{
+body{
     background-color: #83C5BE;
     margin-top: 25px;
 }
 
+.picture{
+    padding: 0px;
+    width: 70%;
+    height: 580px; 
+}

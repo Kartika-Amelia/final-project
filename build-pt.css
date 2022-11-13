@@ -1,6 +1,10 @@
-
-.p-4{
-  width: 119px;
-  height: 110Spx;
+img{
+  width: 340px;
+  height: 500px;
   border-radius: 18px;
+  background-color: #83C5BE;
+}
+
+body{
+  background-color: #83C5BE;
 }
